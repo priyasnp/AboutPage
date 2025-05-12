@@ -47,14 +47,14 @@
 }
  .tag {
     font-style: italic;
-    
+    font-weight: bold;
+    font-size: 1.8rem;
  }
 .intro {
-  font-size: 2rem;
+
   margin-bottom: 0.5rem;
   text-align: justify;
-  
-   font-family: 'batang';
+  font-family: 'batang';
 }
 
 .highlight {
@@ -64,7 +64,7 @@
 .content-container p {
   margin-top: 0.5rem;
   line-height: 1.6;
-  font-size: 2rem;
+  font-size: 1.8rem;
   text-align: justify;
 }
 
